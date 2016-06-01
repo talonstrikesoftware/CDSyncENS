@@ -2,7 +2,6 @@
 //  MainVC.swift
 //  CDSync
 //
-//  Created by Mark Astin on 3/31/15.
 //  Copyright (c) 2015 Talon Strike Software. All rights reserved.
 //
 
