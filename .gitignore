@@ -1,0 +1,4 @@
+/Pods/*
+Podfile.lock
+/CDSyncENS.xcodeproj/xcuserdata/
+/CDSyncENS.xcworkspace/*
